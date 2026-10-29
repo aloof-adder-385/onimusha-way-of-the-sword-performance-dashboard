@@ -1,0 +1,22 @@
+{
+  "name": "onimusha-way-of-the-sword-performance-dashboard",
+  "displayName": "Onimusha Way of the Sword Performance Dashboard",
+  "programType": "performance-dashboard",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Graphics groups",
+    "Test sessions",
+    "Frame pacing notes"
+  ],
+  "topics": [
+    "onimusha-way-of-the-sword-performance-dashboard",
+    "onimusha-way-of-the-sword-tools",
+    "onimusha-way-of-the-sword-menu",
+    "onimusha-way-of-the-sword-settings",
+    "onimusha-way-of-the-sword-configs",
+    "onimusha-way-of-the-sword-graphics-groups",
+    "onimusha-way-of-the-sword-test-sessions"
+  ]
+}
